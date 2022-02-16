@@ -5,5 +5,5 @@ The program allows the user to choose the number of characters, if they want upp
 ./assets/images/program-screenshot.png
 
 # links
-https://github.com/joshuad1590/password-generator
+https://github.com/joshuad1590/create-a-password-generator
 https://joshuad1590.github.io/create-a-password-generator/
